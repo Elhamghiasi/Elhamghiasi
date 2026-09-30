@@ -1,4 +1,4 @@
-# Hi, I'm Ellie 👋
+# Hi, I'm Ellie 
 
 I am a **Data, AI, and Project Coordination professional** with an M.S. in Computer Science from Wright State University. I combine technical expertise in data analysis, large language models, and knowledge graphs with experience coordinating research programs, managing deliverables, and supporting cross-functional teams.
 
